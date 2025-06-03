@@ -5,7 +5,7 @@ Here, you can find details about my projects, skills, and career journey.
 
 ---
 
-## 🔗 Live Portfolio: [Visit Here](file:///C:/Users/praveen%20kumar%20M%20R/OneDrive/Desktop/FSWD/ndex.html.html)
+## 🔗 Live Portfolio: [Visit Here](https://praveen9019.github.io/my-portfolio/)
 
 ---
 
