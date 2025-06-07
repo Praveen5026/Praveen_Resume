@@ -5,7 +5,7 @@ Here, you can find details about my projects, skills, and career journey.
 
 ---
 
-## 🔗 Live Portfolio: [Visit Here](https://praveen5026.github.io/Praveen_Resume/)
+## 🔗 Live Portfolio: [Visit Here](https://praveen5026.github.io/Praveen_portfolio/)
 
 ---
 
